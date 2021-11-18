@@ -22,3 +22,7 @@ De plus, en apuyant sur alt sur une dess ligne de courbure, vous pouvez les boug
 ![gif](2021-11-17-20-47-29.gif)
 
 ## 2. les formes
+D'autre outils essentiels sont les formes. Vous avez une multiple varieter de forme en fesant un "right click" sur l'outil de formes ci-dessous.
+De plus, en clickant sur "shift", vous pouvez faire des formes parfaites.
+
+![image](formes.PNG)
