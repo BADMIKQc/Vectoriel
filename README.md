@@ -26,3 +26,5 @@ D'autre outils essentiels sont les formes. Vous avez une multiple varieter de fo
 De plus, en clickant sur "shift", vous pouvez faire des formes parfaites.
 
 ![image](formes.PNG)
+
+![gif](2021-11-17-21-41-58.gif)
