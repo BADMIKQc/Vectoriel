@@ -16,3 +16,7 @@ la premiere utiliter de la plume est de faire des formes. Voici un exemple:
 Ensuite, vous pouver arrondire les coins avec alt ou en selectionant l'icone ci-dessous ou en fesant un "right click" sur l'icone de la plume pour le trouver.
 
 ![image](arrondi.PNG) 
+
+De plus, en apuyant sur alt 
+
+![gif](2021-11-17-20-47-29.gif)
