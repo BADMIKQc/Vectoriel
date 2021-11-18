@@ -28,3 +28,5 @@ De plus, en clickant sur "shift", vous pouvez faire des formes parfaites.
 ![image](formes.PNG)
 
 ![gif](2021-11-17-21-41-58.gif)
+
+![gif](2021-11-17-21-55-39.gif)
