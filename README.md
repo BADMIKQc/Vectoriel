@@ -7,7 +7,7 @@ Dans photoshop, vous pouvez realiser du vectoriel grace a plusieurs techniques. 
 
 la premiere utiliter de la plume est de faire des formes. Voici un exemple:
 
-![gif](2021-11-17-20-44-57.gif)
+![gif](2021-11-17-22-01-43.gif)
 
 
 
@@ -31,4 +31,4 @@ De plus, en clickant sur "shift", vous pouvez faire des formes parfaites.
 
 ![gif](2021-11-17-21-55-39.gif)
 
-![gif](2021-11-17-22-01-43.gif)
+
