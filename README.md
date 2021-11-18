@@ -1,7 +1,7 @@
 # le Vectoriel
 
 ## 1. La plume
-Dans photoshop, vous pouvez realiser du vectoriel grace a plusieurs techniques. La principale techniques est la plume. Pour acceder a la plume, vous pouvez appuyer sur "p" ou allez chercher l'icone ci-dessous
+Dans photoshop, vous pouvez realiser du vectoriel grace a plusieurs techniques. La principale techniques est la plume. Pour acceder a la plume, vous pouvez appuyer sur "p" ou allez chercher l'icone ci-dessous. De plus, la section en haut a droite devrait etre ecris forme et non trace.
 
 ![image](p.PNG) 
 
