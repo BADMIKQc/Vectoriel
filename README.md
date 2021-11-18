@@ -17,6 +17,8 @@ Ensuite, vous pouver arrondire les coins avec alt ou en selectionant l'icone ci-
 
 ![image](arrondi.PNG) 
 
-De plus, en apuyant sur alt 
+De plus, en apuyant sur alt sur une dess ligne de courbure, vous pouvez les bouger individuellement.
 
 ![gif](2021-11-17-20-47-29.gif)
+
+## 2. les formes
